@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I can lucid dream
 
 ### 🔧 Tools I've used
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px"/>
   
 <!--
 **JennaXiao3/JennaXiao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
