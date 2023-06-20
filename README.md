@@ -6,6 +6,15 @@
 - 📫 How to reach me: j74xiao@uwaterloo.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can lucid dream
+
+### 🔧 Tools I've used
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
   
 <!--
 **JennaXiao3/JennaXiao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
