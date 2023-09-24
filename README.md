@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a Software Developer intern at Lawbrokr and working on an internship tracker for [BobaTalks](https://www.linkedin.com/company/bobatalks/) as a Frontend Lead 
 - 🌱 I’m currently learning Data Structures & Data Management, Computer Organization & Design, and Found of Sequential Programs (in school)
-- 💬 Ask me about my hackathon experience - I've participated in 8 hackathons and won prizes from 5 of them
+- 💬 Ask me about my hackathon experience - I've participated in 9 hackathons and won prizes from 5 of them
 - 📫 How to reach me: j74xiao@uwaterloo.ca or https://www.linkedin.com/in/jenna-x/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can lucid dream
