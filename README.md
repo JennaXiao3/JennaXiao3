@@ -1,8 +1,9 @@
 ### Hi there, I'm Jenna 👋
 
-- 🔭 I’m currently a Software Developer intern at Lawbrokr and working on an internship tracker for [BobaTalks](https://www.linkedin.com/company/bobatalks/) as a Frontend Lead 
-- 🌱 I’m currently learning Data Structures & Data Management, Computer Organization & Design, and Found of Sequential Programs (in school)
-- 💬 Ask me about my hackathon experience - I've participated in 9 hackathons and won prizes from 5 of them
+- 💼 I was most recently a Software Developer intern at Lawbrokr and a Software Engineer at Toronto-Dominion Bank
+- 🔭 I'm currently working on an internship tracker for [BobaTalks](https://www.linkedin.com/company/bobatalks/) as a Frontend Lead 
+- 🌱 I’m currently learning Algorithms, Operating Systems, and Numerical Computation (in school)
+- 💬 Ask me about my hackathon experience - I've participated in 10 hackathons and won prizes from 6 of them
 - 📫 How to reach me: j74xiao@uwaterloo.ca or https://www.linkedin.com/in/jenna-x/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can lucid dream
