@@ -1,6 +1,6 @@
 ### Hi there, I'm Jenna 👋
 
-- 💼 I was most recently an Engineering intern at Shopify
+- 💼 I'm a Software Engineering Intern at Google and was most recently an Engineering Intern at Shopify
 - 🔭 I'm currently working on a Discord bot and an internship tracker for [BobaTalks](https://www.linkedin.com/company/bobatalks/) as a Frontend Lead 
 - 💬 Ask me about my hackathon experience - I've participated in 11 hackathons and won prizes from 6 of them
 - 📫 How to reach me: j74xiao@uwaterloo.ca or https://www.linkedin.com/in/jenna-x/
@@ -13,7 +13,7 @@
 
 
 ### 🏠 Portfolio
-Check out my [portfolio](http://surl.li/hyqdb) and [devpost](https://devpost.com/jennaxiao?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+Check out my [portfolio](https://jennaxiao.notion.site/Jenna-Xiao-s-Portfolio-b92b9d1858ba4160a8ec88f6099ba017) and [devpost](https://devpost.com/jennaxiao?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
   
 <!--
